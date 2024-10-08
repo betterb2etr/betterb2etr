@@ -1,6 +1,13 @@
-# Welcome to Seohyun Github 
+# Welcome to Seohyun Github 🌱
+안녕하세요 백엔드 개발자 지망생 김서현입니다
+복수전공중입니다 
 
-## skills
+더 자세한 포트폴리오는 [여기](https://www.notion.so/Seohyun-Backend-Engineer-087bb29935354111bdd02d97c1dad5ee)를 참고해주세요 
+
+### projects
+
+#### skills
+
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white">
