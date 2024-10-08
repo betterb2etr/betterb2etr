@@ -1,10 +1,13 @@
 # Welcome to Seohyun Github 🌱
 안녕하세요 백엔드 개발자 지망생 김서현입니다
-복수전공중입니다 
+
+
+전자정보통신공학, 컴퓨터공학 복수전공중입니다 
 
 더 자세한 포트폴리오는 [여기](https://www.notion.so/Seohyun-Backend-Engineer-087bb29935354111bdd02d97c1dad5ee)를 참고해주세요 
 
 ### projects
+아 쓰기 귀찮지만 해야겠죠? 
 
 #### skills
 
@@ -31,6 +34,9 @@ I have used them
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> 
 
+초라한 제 백준입니다 열심히 올릴게요... 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=betterbetter)](https://solved.ac/betterbetter)<br/>
 
 <!--
 **betterb2etr/betterb2etr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
