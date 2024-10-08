@@ -1,6 +1,6 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=Seohyun%Github)
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?text=Welcome%Seohyun%Github)
+
 
 <!--
 **betterb2etr/betterb2etr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
