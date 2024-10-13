@@ -93,7 +93,7 @@ JAVA로 GUI를 구현하고, 구현한 GUI를 기반으로 mySQL를 조작 가�
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="20"> 
 
-<h5>초라한 제 백준입니다 열심히 올릴게요...</h5> 
+<h5></h5> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=betterbetter)](https://solved.ac/betterbetter)<br/>
 
