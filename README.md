@@ -1,7 +1,7 @@
 # Welcome to Seohyun Github 🌱
 <p align="center">
 ✨ 안녕하세요 백엔드 개발자 지망생 김서현입니다 
-전자정보통신공학, 컴퓨터공학 복수전공중입니다
+전자정보통신공학, 컴퓨터공학 복수전공입니다
 </p>
 
 더 자세한 포트폴리오는 [여기](https://www.notion.so/Seohyun-Backend-Engineer-087bb29935354111bdd02d97c1dad5ee)를 참고해주세요 
