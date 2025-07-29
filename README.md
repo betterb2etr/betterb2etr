@@ -1,7 +1,6 @@
 # Welcome to Seohyeon Github 🌱
 <p align="center">
-✨ 안녕하세요 백엔드 개발자 지망생 김서현입니다 
-전자정보통신공학, 컴퓨터공학 복수전공입니다
+✨ 안녕하세요 개발자 김서현입니다 
 </p>
 
 ## projects
