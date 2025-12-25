@@ -1,4 +1,3 @@
-# Welcome to Seohyeon's Github 🌱
 
 <div align="center">
   <h2>Hi, I'm Seohyeon Kim! 👋</h2>
@@ -7,7 +6,6 @@
   </p>
   <p>
     단순 기능 구현을 넘어 <b>확장 가능한 아키텍처</b>와 <b>유지보수하기 좋은 코드</b>를 고민합니다.<br>
-    <b>Swagger 기반의 계약 주도 개발(CDD)</b>과 철저한 회고 문화를 지향합니다.
   </p>
 </div>
 
