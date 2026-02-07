@@ -32,7 +32,7 @@
 | Project (Period) | Description & Tech Stack |
 | :--- | :--- |
 | **EduMate**<br><br>📅 *2025.07 - 2025.11* | 2025 오픈소스 개발자대회(기업과제-뤼튼 테크놀로지스)_우수작<br>**"학생별 맞춤 코멘트 생성 및 업무 자동화 솔루션"**<br><br>• **Role**: Backend & AI Integration <br>• **Feature**: GPT-4o 기반 코멘트 생성, Socket.IO 실시간 대시보드, SMS 자동 발송<br>• **Tech**: `Node.js` `TypeScript` `OpenAI API` `Socket.io` `PostgreSQL`<br>• **Impact**: 업무 시간 60% 절감, 데이터 입력 오류 30% 감소<br> |
-| **MURE**<br>(뮤지컬 알림 앱)<br>📅 *2024.07 - 2024.10* | **"KOPIS 연동 뮤지컬 티켓팅 오픈 알림 서비스"**<br><br>• **Role**: Backend Lead & DB Design<br>• **Feature**: 공연 정보 자동 수집(Batch), 맞춤 알림, REST API 설계<br>• **Tech**: `Node.js` `Express` `AWS EC2/RDS` `Prisma` `Swagger`<br>• **Impact**: KOPIS OpenAPI 연동 자동화, Swagger 도입으로 협업 효율 증대<br><br>|
+| **MURE**<br>(뮤지컬 알림 앱)<br>📅 *2024.07 - 2024.10* | **"KOPIS 연동 뮤지컬 티켓팅 오픈 알림 서비스"**<br><br>• **Role**: Backend & DB Design<br>• **Feature**: 공연 정보 자동 수집(Batch), 맞춤 알림, REST API 설계<br>• **Tech**: `Node.js` `Express` `AWS EC2/RDS` `Prisma` `Swagger`<br>• **Impact**: KOPIS OpenAPI 연동 자동화, Swagger 도입으로 협업 효율 증대<br><br>|
 
 <br>
 
